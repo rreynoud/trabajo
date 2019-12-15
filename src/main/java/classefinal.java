@@ -1,11 +1,12 @@
-package py.inf.fabian;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
-public class Ejercicio {
+public class classefinal {
 
     private static Scanner scanner;
 
